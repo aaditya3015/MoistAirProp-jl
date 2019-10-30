@@ -3,6 +3,9 @@ uuid = "b75384ad-ed32-4f1d-a88e-788bac9ba995"
 authors = ["aaditya saikiran pegallapati"]
 version = "0.1.0"
 
+[deps]
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+
 [compat]
 julia = "1.2"
 
